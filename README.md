@@ -1,2 +1,2 @@
 # Calculadora
- Uma caoculadora simples para treino básico de JS 
+ Uma calculadora simples para treino básico de JS 
